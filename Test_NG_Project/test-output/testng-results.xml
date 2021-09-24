@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53252" started-at="2021-09-23T17:51:14 IST" finished-at="2021-09-23T17:52:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53252" started-at="2021-09-23T17:51:14 IST" finished-at="2021-09-23T17:52:07 IST">
+      <class name="com.Test_NG_Project.Mini_Project_Dataprovider">
+        <test-method status="PASS" signature="url_Credentials(java.lang.String,java.lang.String)[pri:0, instance:com.Test_NG_Project.Mini_Project_Dataprovider@1130520d]" name="url_Credentials" duration-ms="21365" started-at="2021-09-23T17:51:14 IST" data-provider="test_Data" finished-at="2021-09-23T17:51:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vishnu2101996@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fzrider02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_Credentials -->
+        <test-method status="PASS" signature="url_Credentials(java.lang.String,java.lang.String)[pri:0, instance:com.Test_NG_Project.Mini_Project_Dataprovider@1130520d]" name="url_Credentials" duration-ms="16472" started-at="2021-09-23T17:51:35 IST" data-provider="test_Data" finished-at="2021-09-23T17:51:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shreekanth1000@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdfghjkl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_Credentials -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.Test_NG_Project.Mini_Project_Dataprovider@1130520d]" name="login" duration-ms="15257" started-at="2021-09-23T17:51:52 IST" finished-at="2021-09-23T17:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.Test_NG_Project.Mini_Project_Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
